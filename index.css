@@ -15,7 +15,7 @@ body {
 .cover_letter {
   display: block;
   text-align: left;
-  font-size: x-large;
+  font-size: larger;
   margin-left: 32%;
   margin-right: 32%;
   margin-top: 2%;
@@ -23,7 +23,7 @@ body {
 }
 
 .links {
-  font-size: x-large;
+  font-size: larger;
   padding-left: 3.3%;
   padding-right: 3.3%;
   color: seashell;
